@@ -14,7 +14,7 @@ A simple Rust program that waits for a specified amount of time and then plays a
 1. Clone the repository:
 ```bash
 git clone https://github.com/KPCOFGS/Timer_in_Rust.git
-cd Timer_in_Rust
+cd Timer_in_Rust/Timer
 ```
 2. Build the project:
 ```bash
