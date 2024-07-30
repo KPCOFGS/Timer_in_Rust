@@ -6,9 +6,9 @@ A simple Rust program that waits for a specified amount of time and then plays a
 * Waits for a specified duration (in seconds, minutes, or hours).
 * Repeats the alarm sound a specified number of times.
 * Plays an MP3 file as the alarm sound.
-Requirements
-* Rust (Install from rust-lang.org)
-* MP3 file named alarm_sound.mp3 in the same directory as the executable
+## Requirements
+* Rust (Install from [rust-lang.org](https://www.rust-lang.org/))
+* MP3 file named `alarm_sound.mp3` in the root directory
 * `libasound2-dev` installed on Linux devices
 ## Installation
 1. Clone the repository:
@@ -20,7 +20,6 @@ cd
 ```bash
 cargo build --release
 ```
-3. Ensure you have an MP3 file named `alarm_sound.mp3` in the root directory of the project.
 
 ## Usage
 The program accepts the following command-line arguments:
