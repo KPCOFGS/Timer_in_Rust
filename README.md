@@ -13,8 +13,8 @@ A simple Rust program that waits for a specified amount of time and then plays a
 ## Installation
 1. Clone the repository:
 ```bash
-git clone 
-cd 
+git clone https://github.com/KPCOFGS/Timer_in_Rust.git
+cd Timer_in_Rust
 ```
 2. Build the project:
 ```bash
