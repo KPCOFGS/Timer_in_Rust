@@ -23,10 +23,15 @@ cargo build --release
 
 ## Usage
 The program accepts the following command-line arguments:
+
 `--seconds` (default: 0): Number of seconds to wait.
+
 `--minutes` (default: 0): Number of minutes to wait.
+
 `--hours` (default: 0): Number of hours to wait.
+
 `--repeat_times` (default: 1): Number of times to repeat the alarm sound.
+
 ## Example
 To wait for 1 minute and 30 seconds and repeat the alarm sound 3 times, use:
 ```bash
